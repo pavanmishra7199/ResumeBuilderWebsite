@@ -1,0 +1,173 @@
+.header{
+  font-size: 35px;
+  font-family:  Teko;
+}
+
+.dropdown-menu{
+  width: 600px;
+  padding:20px;
+
+
+}
+.dropdownMenuButton1{
+  font-weight: bold;
+}
+
+
+.btn{
+  background: linear-gradient(to right, #e362d0 ,#ed5858);
+  color: #061778;
+
+  width: 600px;
+  margin-left: 220px;
+  margin-top: 20px
+}
+
+.btn-sm{
+  width: 90px;
+}
+
+.button{
+  padding-left: 10px;
+  margin-bottom: 0px;
+}
+.year{
+  width:100px;
+}
+
+.month{
+  width:105px;
+}
+
+.form-group{
+  padding: 8px;
+}
+
+#title{
+  background-color: #F3E9DD;
+  filter: drop-shadow(0 0.1875rem 0.375rem rgba(0,0,0,.06));
+  font-family:  Teko;
+  font-size: 1.5rem;
+}
+
+body{
+  background-color: #FDF6EC;
+}
+
+h3{
+  font-family: Lobster;
+  font-size: 3.5rem;
+  padding: 0% 0% 4%;
+}
+
+img{
+  width: 50%;
+  height: 60%;
+  padding-left:  80px;
+}
+
+.container-fluid{
+  padding: 0%  3%;
+  height: 100px;
+  margin-bottom: 20px;
+}
+
+.nav-link:hover{
+   text-color:  #D8D2CB;
+}
+
+.navbar{
+  padding: 0px;
+  color: #ffcac4;
+
+}
+
+.navbar-brand{
+  font-size: 2rem;
+}
+.navbar-custom {
+  height: 100px;
+}
+
+.navbar-dark .navbar-brand {
+  color: #000000;
+}
+
+.navbar-dark .navbar-nav .nav-link{
+  color: #000000;
+  padding: 50px;
+}
+
+#main{
+  padding: 5%;
+}
+
+.background{
+  background-color: #abaeff;
+}
+
+#background{
+  background-color: #abaeff;
+
+}
+p{
+  margin-top: 0;
+  padding: 0;
+}
+.myImage{
+  width:200px;
+  border-radius: 50%;
+  padding: 0px;
+  height: 200px;
+  border: 1px solid black;
+
+}
+
+.btnprint{
+  border: 1px solid black;
+  border-radius: 5px;
+
+}
+.block{
+  height: auto;
+}
+
+#PrintResume{
+  display: none;
+  margin-bottom: 20px;
+}
+
+#GenerateResume{
+   padding: 3px;
+   margin-bottom: 20px;
+   margin-left: 220px;
+
+}
+
+#GenerateBtn{
+  width: 135px;
+
+}
+
+#cv-template{
+  border: 1px solid black;
+  border-radius: 3px ;
+  margin-bottom: 30px;
+}
+
+.img-fluid{
+  height: 200px;
+}
+
+.imgdiv{
+  padding: 10px;
+}
+
+.nav-link:hover{
+  color:  yellow;
+  text-decoration: underline;
+
+}
+.nav-item:hover{
+  color:  yellow;
+}

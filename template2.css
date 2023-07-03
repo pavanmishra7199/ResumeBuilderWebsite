@@ -1,0 +1,59 @@
+#title{
+  background-color: #ffd1cc;
+  filter: drop-shadow(0 0.1875rem 0.375rem rgba(0,0,0,.06));
+  font-family:  Teko;
+  font-size: 1.5rem;
+}
+
+body{
+  background-color: #FDF6EC;
+}
+
+h3{
+  font-family: Lobster;
+  font-size: 3rem;
+  padding: 0% 0% 4%;
+}
+
+img{
+  width: 75%;
+  height: 85%;
+  padding-left:  80px;
+
+}
+
+.container-fluid{
+  padding: 0%  3%;
+  height: 60px;
+  margin-bottom: 15px;
+}
+
+.nav-link:hover{
+   text-color: yellow;
+}
+
+.navbar{
+  padding: 5px;
+  font-family: Teko;
+
+}
+
+.navbar-brand{
+  font-size: 2rem;
+}
+.navbar-custom {
+  height: 5px;
+}
+
+.navbar-dark .navbar-brand {
+  color: #000000;
+}
+
+.navbar-dark .navbar-nav .nav-link{
+  color: #000000;
+  padding: 20px;
+}
+
+#main{
+  padding: 5%;
+}
